@@ -15,7 +15,7 @@ $ npm run webpack-watch
 $ npm run webpack-build
 ```
 
-This package contains
+## This package contains
 
 - ReactJS 15.4.2
 - React-DOM 15.4.2
