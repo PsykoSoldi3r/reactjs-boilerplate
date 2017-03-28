@@ -1,6 +1,6 @@
 # reactjs-boilerplate
 
-A simple but complete boilerplate for the Javascript version of Facebooks React. Ready with an **ES6 compiler**, **Live-reload**, **SASS** and **Promise** support. All using Webpack and managed by Node Package Manager.
+A simple but complete boilerplate for the Javascript version of Facebooks React. Ready with an **ES6 compiler**, **Live-reload**, **SASS**, **Promise** and **JSX** support. All using Webpack and managed by Node Package Manager.
 
 Clone this repository, simple installing the packages using the Node Package Manager ...
 
